@@ -1,0 +1,43 @@
+qg.order60.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 01:40:29 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135489596/qg.order60.col.b_1135492829.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135492829
+178.26
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 323 seed: 1135493008
+177.19
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135493186
+179.29
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 324 seed: 1135493367
+180.60
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135493548
+177.68
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 326 seed: 1135493727
+175.99
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 323 seed: 1135493904
+178.22
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135494083
+179.93
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135494264
+175.03
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135494440
+180.58
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135494622
+182.59
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135494805
+184.19
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135494991
+186.36
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135495178
+184.10
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 323 seed: 1135495363
+183.68
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 323 seed: 1135495548
+184.70
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135495733
+182.14
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135495917
+182.92
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135496101
+174.09
+nthreads: 1 colors: 60 vertices: 3600 edges 212400 colors_table: () bestIndex: 322 seed: 1135496276
+181.82

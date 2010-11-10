@@ -1,0 +1,43 @@
+queen15_15.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 02:42:59 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135489596/queen15_15.col.b_1135496579.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496579
+4.01
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496584
+4.03
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 24 seed: 1135496589
+4.07
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496594
+4.02
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496599
+4.05
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496604
+4.01
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496609
+4.02
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496614
+4.11
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496619
+4.02
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496624
+4.02
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496629
+4.12
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496634
+4.02
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 22 seed: 1135496640
+4.00
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496645
+4.01
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496650
+4.00
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 25 seed: 1135496655
+4.04
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496660
+4.05
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 21 seed: 1135496665
+3.99
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 32 seed: 1135496670
+4.11
+nthreads: 1 colors: 17 vertices: 225 edges 5180 colors_table: () bestIndex: 22 seed: 1135496675
+4.00

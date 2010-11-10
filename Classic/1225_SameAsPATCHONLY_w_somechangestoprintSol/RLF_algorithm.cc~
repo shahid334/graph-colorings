@@ -1,0 +1,81 @@
+struct cStruct{
+  int v_id ;
+  int c_id ;
+}
+
+int SETLIMIT = nVertices * somefactor ; 
+
+int q = 0 ; //colors used
+int W[nVertices]; //uncolored vertices that can be safely constructed
+int wSize = nVertices;
+int B[nVertices]; //uncolored vertices that can NOT be safely constructed
+int k = 0 ; //# of colored vertices
+int alreadyColored[nVertices];
+
+cStruct tempStore[nVertices];
+
+for(int i = 0 ; i < nVertices ; ++i){
+  W[i]=1; //initially all are uncolored and can be considered
+  alreadyColored[i]=0;
+}
+
+int chosenV;
+
+while(k<nVertices){
+
+  for(int i = 0 ; i < nVertices ; ++i){
+	B[i]=0; //reset, all can be considered to be constructed
+  }
+
+
+  q++;
+  currentcolorCount=0; //how many vertices with this color
+
+  chosenV=selectV();  //highest degree
+  tempStore[k].v_id=chosenV;  tempStore[k].c_id=q;
+
+  k++;
+
+  W[chosenV]=0; //no longer consider it ;
+  wSize--;
+
+  //no longer considered the adj to chosenV
+  for (i=0;i<chosenV.adj;++i){
+	if (W[chosenV.adj[i]]==1){
+	  W[chosenV.adj[i]]=0;//no longer consider it ;
+	  wSize--;
+	}
+
+  }
+
+
+
+
+  while(wSize>0){
+	
+	for (i=0;i<chosenV.adj;++i){
+	  if(alreadyColored[chosenV.adj[i]]==0){//if this not yet colored
+		if (B[chosenV.adj[i]]){//if it's not in black list 
+		  B[chosenV.adj[i]]=1; //blacklist it , no longer considered
+		}
+	  }
+	}
+	
+	
+	//if too many vertices are colored using this color
+	if (currentColorCount > SETLIMIT){
+	  bSize=0;
+	  chosenV=0;
+
+	  //black list the rest (the uncolored)
+	  for (int i = 0 ; i < nVertices ;++i){
+		if(alreadyColored[i]==0){//if not yet colored
+		  B[i]=1; //black list it 
+		  BSize++;
+		}
+	  }
+	}
+	
+  }
+
+}

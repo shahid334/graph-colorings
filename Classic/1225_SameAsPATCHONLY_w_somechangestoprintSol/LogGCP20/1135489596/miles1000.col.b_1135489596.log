@@ -1,0 +1,43 @@
+miles1000.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 00:46:36 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135489596/miles1000.col.b_1135489596.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489596
+2.55
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489600
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489603
+2.55
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489607
+2.57
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489611
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489614
+2.55
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489618
+2.55
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489621
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489625
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489628
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489632
+2.55
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489636
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489639
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489643
+2.55
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489646
+2.54
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489650
+2.52
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489653
+2.53
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489657
+2.53
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489660
+2.53
+nthreads: 1 colors: 42 vertices: 128 edges 3216 colors_table: () bestIndex: 241 seed: 1135489664
+2.54

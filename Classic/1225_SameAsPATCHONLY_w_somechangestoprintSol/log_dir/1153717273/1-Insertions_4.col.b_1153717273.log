@@ -1,0 +1,203 @@
+1-Insertions_4.col.b n_loops: 100 n_threads: 1
+Mon Jul 24 01:01:13 EDT 2006 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/log_dir//1153717273/1-Insertions_4.col.b_1153717273.log
+Single cedf232c677ebdd3c298dee92578679f /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717273
+0.13
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717274
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717276
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717277
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717278
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717279
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717280
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717281
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717283
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717284
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717285
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717286
+0.13
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717287
+0.13
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717288
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717290
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717291
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717292
+0.16
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717293
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717294
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717295
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717296
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717298
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717299
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717300
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717301
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717302
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717303
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717305
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717306
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717307
+0.13
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717308
+0.13
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717309
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717310
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717312
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717313
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717314
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717315
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717316
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717317
+0.14
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717319
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717320
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717321
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717322
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717323
+0.14
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717324
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717326
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717327
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717328
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717329
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717330
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717331
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717333
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717334
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717335
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717336
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717337
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717338
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717340
+0.13
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717341
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717342
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717343
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717344
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717345
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717347
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717348
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717349
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717350
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717351
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717352
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717353
+0.14
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717355
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717356
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717357
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717358
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717359
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717360
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717362
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717363
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717364
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717365
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717366
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717367
+0.15
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717369
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717370
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717371
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717372
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717373
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717374
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717376
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717377
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717378
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717379
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717380
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717381
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717383
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717384
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717385
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717386
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717387
+0.12
+nthreads: 1 colors: 5 vertices: 67 edges 232 colors_table: () bestIndex: 0 seed: 1153717388
+0.12

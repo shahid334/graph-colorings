@@ -1,0 +1,43 @@
+le450_25b.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 03:59:02 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499733/le450_25b.col.b_1135501142.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501142
+21.98
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501165
+22.06
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501188
+21.91
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501211
+21.94
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501234
+22.05
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501257
+21.93
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501280
+21.90
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501303
+21.95
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501326
+21.91
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501348
+21.92
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501371
+22.03
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501394
+21.90
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501417
+21.91
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501440
+21.91
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501463
+21.91
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501486
+21.91
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501509
+22.16
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501532
+21.99
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501555
+21.93
+nthreads: 1 colors: 25 vertices: 450 edges 8263 colors_table: () bestIndex: 0 seed: 1135501578
+21.93

@@ -1,0 +1,43 @@
+5-FullIns_3.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 05:03:31 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499848/5-FullIns_3.col.b_1135505011.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505011
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505013
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505015
+1.06
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505017
+1.06
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505019
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505021
+1.06
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505023
+1.08
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505026
+1.06
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505028
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505030
+1.06
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505032
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505034
+1.09
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505036
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505038
+1.08
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505040
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505042
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505044
+1.06
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505046
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505049
+1.07
+nthreads: 1 colors: 8 vertices: 154 edges 792 colors_table: () bestIndex: 0 seed: 1135505051
+1.07

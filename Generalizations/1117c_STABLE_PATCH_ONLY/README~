@@ -1,0 +1,21 @@
+should be the most stable version (more recent than the other 1107 Stables .. but check to make sure 
+it can recreate results using same seed).  The only diff is the JOLT,  so if something doesn't work then take the jolt out.
+
+
+
+11/16  : PROBABLY the ONLY changes are 
+
+1) localOpt (flip) only run at the end
+2) Recolormorethan Q  change to  only change color of vertices with color > achievedK--
+It seems that the highest goes down (which is a good thing) ... let's try put localOpt (flip) as before (not at the end)
+----------
+
+
+well have to take care of the weight thing 
+weight neighbor  -> all cliques of subset (i) to all cliques of subjset (j) have the weights of weight(i,j)
+weight self  -> all cliques of subset(i) have the weight of weight(i,i) among themselves ... have to check this 
+is there weight(i,i) ???
+
+BUG
+1) don't add scores to configurations that's similar to previous ones , program not able to check this yet
+2) When making decision, there could be color choice that's not in the pheromone score,  how to deal with it ?

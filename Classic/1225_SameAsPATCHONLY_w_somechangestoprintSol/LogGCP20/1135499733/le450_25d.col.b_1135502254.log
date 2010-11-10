@@ -1,0 +1,43 @@
+le450_25d.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 04:17:34 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499733/le450_25d.col.b_1135502254.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 382 seed: 1135502254
+30.63
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 258 seed: 1135502286
+28.72
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 620 seed: 1135502315
+34.44
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 604 seed: 1135502351
+34.29
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 292 seed: 1135502386
+29.22
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 311 seed: 1135502416
+28.87
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 311 seed: 1135502446
+29.19
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 541 seed: 1135502476
+32.74
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 239 seed: 1135502510
+28.00
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 448 seed: 1135502539
+31.63
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 381 seed: 1135502572
+29.80
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 694 seed: 1135502603
+36.11
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 438 seed: 1135502640
+31.42
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 635 seed: 1135502672
+34.47
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 771 seed: 1135502708
+37.24
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 389 seed: 1135502746
+30.76
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 529 seed: 1135502778
+32.63
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 380 seed: 1135502811
+30.50
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 608 seed: 1135502843
+34.15
+nthreads: 1 colors: 26 vertices: 450 edges 17425 colors_table: () bestIndex: 278 seed: 1135502878
+28.53

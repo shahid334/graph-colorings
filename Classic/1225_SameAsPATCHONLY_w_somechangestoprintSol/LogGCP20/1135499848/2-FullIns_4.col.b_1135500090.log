@@ -1,0 +1,43 @@
+2-FullIns_4.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 03:41:30 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499848/2-FullIns_4.col.b_1135500090.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500090
+2.36
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500093
+2.21
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500096
+2.22
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500099
+2.20
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500103
+2.25
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500106
+2.19
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500109
+2.22
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500112
+2.22
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500116
+2.21
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500119
+2.19
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500122
+2.21
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500125
+2.21
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500129
+2.20
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500132
+2.24
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500135
+2.19
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500138
+2.21
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500141
+2.21
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500145
+2.21
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500148
+2.20
+nthreads: 1 colors: 6 vertices: 212 edges 1621 colors_table: () bestIndex: 0 seed: 1135500151
+2.22

@@ -1,0 +1,43 @@
+fpsol2.i.2.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 05:53:09 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499848/fpsol2.i.2.col.b_1135507989.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135507989
+46.91
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508037
+46.66
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508085
+47.35
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508133
+47.43
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508182
+46.59
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508229
+46.56
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508277
+46.57
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508325
+46.44
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508372
+45.81
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508419
+46.56
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508466
+47.70
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508515
+47.29
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508563
+47.16
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508612
+47.55
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508660
+47.40
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508709
+46.68
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508756
+46.62
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508804
+47.28
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508852
+47.64
+nthreads: 1 colors: 30 vertices: 451 edges 8691 colors_table: () bestIndex: 0 seed: 1135508901
+46.83
