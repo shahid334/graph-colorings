@@ -14,4 +14,6 @@ Bui, T., T. Nguyen, C. Patel, and K. Phan, "An Ant-Based Algorithm for Coloring 
 
 History
 
-5/17: rename Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol to Classic/Code
+5/17: 
+mv Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol to Classic/Code
+mv Generalizations/1117c_STABLE_PATCH_ONLY to Generalizations/Code

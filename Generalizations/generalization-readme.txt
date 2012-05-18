@@ -1,6 +1,3 @@
-5/17/2012
-mv 1117c_STABLE_PATCH_ONLY/ to Code/
-
 tscript.sh => /storage/Users/thanhvu/Bandwidth/Src/tvn/tscript.sh
 
 ========
