@@ -1,0 +1,22 @@
+Compilation
+$g++ main.cc -o generalization
+
+Usage
+$ ./generalization Examples/GEOM20.col 0
+nthreads: 1 maxK: 5 vertices: 20 edges: 20 GCP: () bestIndex: 0 seed: 1337300813
+
+$ ./generalization Examples/GEOM20.col 1
+nthreads: 1 maxK: 21 vertices: 20 edges: 20 BCP: () bestIndex: 0 seed: 1337300814
+
+
+11/16  : PROBABLY the ONLY changes are 
+
+2) Recolormorethan Q  change to  only change color of vertices with color > achievedK--
+It seems that the highest goes down (which is a good thing) ... let's try put localOpt (flip) as before (not at the end)
+----------
+
+should be the most stable version (more recent than the other 1107 Stables .. but check to make sure 
+it can recreate results using same seed).  The only diff is the JOLT,  so if something doesn't work then take the jolt out.
+
+
+

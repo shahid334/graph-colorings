@@ -1,0 +1,43 @@
+zeroin.i.1.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 05:40:37 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135498147/zeroin.i.1.col.b_1135507237.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507237
+7.65
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507246
+7.69
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507254
+7.61
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507263
+7.66
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507272
+7.64
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507280
+7.63
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507289
+7.64
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507298
+7.64
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507306
+7.64
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507315
+7.63
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507324
+7.71
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507332
+7.68
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507341
+7.60
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507350
+7.65
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507358
+7.65
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507367
+7.66
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507376
+7.65
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507384
+7.64
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507393
+7.64
+nthreads: 1 colors: 49 vertices: 211 edges 4100 colors_table: () bestIndex: 0 seed: 1135507402
+7.64

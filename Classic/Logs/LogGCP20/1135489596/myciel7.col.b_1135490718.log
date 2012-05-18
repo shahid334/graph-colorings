@@ -1,0 +1,43 @@
+myciel7.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 01:05:18 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135489596/myciel7.col.b_1135490718.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490718
+2.31
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490722
+2.30
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490725
+2.31
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490728
+2.33
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490732
+2.30
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490735
+2.33
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490738
+2.36
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490742
+2.37
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490745
+2.28
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490748
+2.28
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490752
+2.33
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490755
+2.32
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490758
+2.32
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490762
+2.32
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490765
+2.33
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490769
+2.32
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490772
+2.38
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490775
+2.34
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490779
+2.33
+nthreads: 1 colors: 8 vertices: 191 edges 2360 colors_table: () bestIndex: 0 seed: 1135490782
+2.33

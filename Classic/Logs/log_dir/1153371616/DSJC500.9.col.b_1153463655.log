@@ -1,0 +1,203 @@
+DSJC500.9.col.b n_loops: 100 n_threads: 1
+Fri Jul 21 02:34:15 EDT 2006 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/log_dir//1153378380/DSJC500.9.col.b_1153463655.log
+Single cedf232c677ebdd3c298dee92578679f /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 699 seed: 1153463655
+107.77
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 606 seed: 1153463763
+104.38
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1077 seed: 1153463869
+126.40
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2164 seed: 1153463996
+148.45
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 987 seed: 1153464146
+122.30
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2053 seed: 1153464269
+148.15
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2101 seed: 1153464418
+148.20
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1699 seed: 1153464567
+146.60
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 1736 seed: 1153464715
+148.62
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 797 seed: 1153464865
+113.99
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 622 seed: 1153464980
+104.35
+nthreads: 1 colors: 127 vertices: 500 edges 112437 colors_table: () bestIndex: 1771 seed: 1153465085
+148.04
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1953 seed: 1153465234
+146.96
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1603 seed: 1153465382
+148.17
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1546 seed: 1153465531
+146.72
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1357 seed: 1153465679
+141.13
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 633 seed: 1153465821
+104.74
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 626 seed: 1153465927
+104.08
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 907 seed: 1153466032
+117.90
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1491 seed: 1153466151
+147.83
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1452 seed: 1153466300
+144.52
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 545 seed: 1153466445
+101.46
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 1406 seed: 1153466548
+142.47
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 689 seed: 1153466691
+108.56
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1446 seed: 1153466801
+144.48
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1628 seed: 1153466946
+148.40
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2791 seed: 1153467096
+147.09
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 867 seed: 1153467244
+117.36
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1843 seed: 1153467362
+147.30
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 559 seed: 1153467510
+102.06
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 710 seed: 1153467614
+108.34
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1469 seed: 1153467723
+146.74
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1408 seed: 1153467871
+142.39
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1757 seed: 1153468014
+148.64
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 888 seed: 1153468164
+117.09
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 683 seed: 1153468282
+107.87
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 693 seed: 1153468391
+107.68
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 833 seed: 1153468499
+115.88
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 489 seed: 1153468616
+97.69
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2064 seed: 1153468715
+148.32
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1234 seed: 1153468864
+133.86
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 613 seed: 1153468999
+104.85
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 624 seed: 1153469105
+104.46
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1749 seed: 1153469211
+148.83
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1393 seed: 1153469360
+141.31
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1994 seed: 1153469503
+148.29
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1079 seed: 1153469652
+126.37
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1351 seed: 1153469779
+141.29
+nthreads: 1 colors: 127 vertices: 500 edges 112437 colors_table: () bestIndex: 2450 seed: 1153469922
+148.62
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2026 seed: 1153470071
+146.78
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 1114 seed: 1153470219
+128.53
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 823 seed: 1153470349
+115.05
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 587 seed: 1153470465
+102.26
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2098 seed: 1153470568
+148.90
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 952 seed: 1153470718
+120.10
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 919 seed: 1153470839
+119.91
+nthreads: 1 colors: 127 vertices: 500 edges 112437 colors_table: () bestIndex: 1103 seed: 1153470960
+127.10
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 987 seed: 1153471088
+123.05
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 677 seed: 1153471212
+106.61
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1476 seed: 1153471320
+146.93
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 553 seed: 1153471468
+100.57
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 466 seed: 1153471569
+97.31
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1639 seed: 1153471668
+148.15
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 757 seed: 1153471817
+110.42
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 875 seed: 1153471928
+117.86
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 759 seed: 1153472047
+111.10
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1365 seed: 1153472159
+141.20
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 528 seed: 1153472301
+100.70
+nthreads: 1 colors: 127 vertices: 500 edges 112437 colors_table: () bestIndex: 982 seed: 1153472403
+121.48
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 963 seed: 1153472526
+121.88
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1174 seed: 1153472648
+131.18
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1774 seed: 1153472781
+148.52
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 1138 seed: 1153472930
+129.42
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 716 seed: 1153473061
+109.97
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 540 seed: 1153473172
+100.47
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 686 seed: 1153473273
+108.28
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 471 seed: 1153473382
+97.42
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2148 seed: 1153473481
+146.89
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1192 seed: 1153473629
+133.02
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 1153 seed: 1153473763
+129.98
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 726 seed: 1153473894
+110.28
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 625 seed: 1153474005
+104.26
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1669 seed: 1153474110
+148.13
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 852 seed: 1153474260
+115.57
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1405 seed: 1153474376
+143.68
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 1242 seed: 1153474521
+134.81
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 972 seed: 1153474657
+121.74
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 766 seed: 1153474779
+112.55
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 640 seed: 1153474893
+105.08
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 2004 seed: 1153474999
+148.50
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1068 seed: 1153475149
+125.98
+nthreads: 1 colors: 128 vertices: 500 edges 112437 colors_table: () bestIndex: 1013 seed: 1153475276
+124.73
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 643 seed: 1153475401
+105.34
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 585 seed: 1153475508
+103.79
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 662 seed: 1153475612
+106.45
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 548 seed: 1153475720
+101.79
+nthreads: 1 colors: 127 vertices: 500 edges 112437 colors_table: () bestIndex: 2292 seed: 1153475823
+147.24
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 595 seed: 1153475971
+104.16
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 1512 seed: 1153476076
+147.21
+nthreads: 1 colors: 129 vertices: 500 edges 112437 colors_table: () bestIndex: 437 seed: 1153476224
+96.52

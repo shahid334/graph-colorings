@@ -1,0 +1,43 @@
+ash331GPIA.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 05:13:58 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499848/ash331GPIA.col.b_1135505638.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 19 seed: 1135505638
+15.89
+nthreads: 1 colors: 5 vertices: 662 edges 4181 colors_table: () bestIndex: 2 seed: 1135505655
+13.55
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 17 seed: 1135505670
+16.14
+nthreads: 1 colors: 5 vertices: 662 edges 4181 colors_table: () bestIndex: 1 seed: 1135505687
+13.83
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 6 seed: 1135505702
+15.70
+nthreads: 1 colors: 5 vertices: 662 edges 4181 colors_table: () bestIndex: 1 seed: 1135505719
+13.50
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 7 seed: 1135505733
+16.01
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 5 seed: 1135505750
+15.66
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 4 seed: 1135505767
+15.68
+nthreads: 1 colors: 5 vertices: 662 edges 4181 colors_table: () bestIndex: 1 seed: 1135505784
+13.97
+nthreads: 1 colors: 5 vertices: 662 edges 4181 colors_table: () bestIndex: 1 seed: 1135505798
+14.17
+nthreads: 1 colors: 5 vertices: 662 edges 4181 colors_table: () bestIndex: 1 seed: 1135505814
+14.27
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 7 seed: 1135505829
+16.05
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 99 seed: 1135505846
+16.86
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 3 seed: 1135505864
+15.96
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 10 seed: 1135505881
+16.05
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 5 seed: 1135505898
+15.99
+nthreads: 1 colors: 5 vertices: 662 edges 4181 colors_table: () bestIndex: 1 seed: 1135505915
+14.20
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 8 seed: 1135505930
+15.92
+nthreads: 1 colors: 4 vertices: 662 edges 4181 colors_table: () bestIndex: 12 seed: 1135505947
+16.13

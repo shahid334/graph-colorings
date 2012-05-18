@@ -1,0 +1,43 @@
+4-FullIns_5.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 04:20:26 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499848/4-FullIns_5.col.b_1135502426.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135502426
+124.71
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135502552
+124.98
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135502678
+125.72
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135502804
+125.56
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135502931
+125.77
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503058
+125.76
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503184
+124.52
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503310
+125.45
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503436
+125.34
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503563
+124.80
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503689
+125.36
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503815
+141.13
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135503957
+124.91
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135504083
+125.30
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135504209
+125.01
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135504335
+126.28
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135504463
+125.78
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135504590
+125.12
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135504716
+125.93
+nthreads: 1 colors: 9 vertices: 4146 edges 77305 colors_table: () bestIndex: 0 seed: 1135504843
+126.12

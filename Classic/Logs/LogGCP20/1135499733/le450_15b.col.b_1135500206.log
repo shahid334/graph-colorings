@@ -1,0 +1,43 @@
+le450_15b.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 03:43:26 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499733/le450_15b.col.b_1135500206.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 227 seed: 1135500206
+21.41
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 145 seed: 1135500228
+20.54
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 485 seed: 1135500250
+24.85
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 195 seed: 1135500276
+21.32
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 241 seed: 1135500298
+21.87
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 265 seed: 1135500321
+21.97
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 307 seed: 1135500344
+22.66
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 110 seed: 1135500368
+20.18
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 161 seed: 1135500389
+20.78
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 139 seed: 1135500411
+20.37
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 257 seed: 1135500432
+21.95
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 234 seed: 1135500455
+21.70
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 303 seed: 1135500478
+22.39
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 295 seed: 1135500501
+22.40
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 217 seed: 1135500525
+21.42
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 633 seed: 1135500547
+26.60
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 323 seed: 1135500575
+22.80
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 214 seed: 1135500598
+21.64
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 211 seed: 1135500621
+21.37
+nthreads: 1 colors: 15 vertices: 450 edges 8169 colors_table: () bestIndex: 290 seed: 1135500643
+22.36

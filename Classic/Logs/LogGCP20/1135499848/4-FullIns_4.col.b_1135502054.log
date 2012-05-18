@@ -1,0 +1,43 @@
+4-FullIns_4.col.b n_loops: 20 n_threads: 1
+Sun Dec 25 04:14:14 EST 2005 /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/LogGCP20//1135499848/4-FullIns_4.col.b_1135502054.log
+Single e3308cd38d8c5eb9b3fc1f01b7fcc13b /home/thanhvu/nfs/Classic/1225_SameAsPATCHONLY_w_somechangestoprintSol/a.out
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502054
+17.62
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502072
+17.73
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502091
+17.82
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502110
+17.60
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502129
+17.81
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502147
+17.73
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502166
+17.84
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502185
+17.18
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502203
+17.17
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502222
+17.21
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502240
+17.16
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502258
+17.80
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502277
+17.73
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502295
+17.75
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502314
+17.30
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502333
+17.23
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502351
+17.70
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502370
+17.55
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502388
+17.74
+nthreads: 1 colors: 8 vertices: 690 edges 6650 colors_table: () bestIndex: 0 seed: 1135502407
+17.79
